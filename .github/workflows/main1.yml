@@ -35,3 +35,4 @@ jobs:
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: aci-sampleapkl
             location: 'south india'
+            ports: '5000'
